@@ -1,0 +1,15 @@
+footer {
+  display: flex;
+  min-height: 10vh;
+  max-width: 100%;
+  align-items: center;
+  //margin: 50px auto;
+  padding: 5vh 0;
+  background: #0e2431;
+  text-align: center;
+  p {
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+  }
+}
